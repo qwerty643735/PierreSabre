@@ -23,7 +23,6 @@ public class HistoireTP4 {
         yaku.direBonjour();
         yaku.parler("Tiens, tiens, ne serait-ce pas un faible marchand qui passe par là ?");
         yaku.parler("Marco, si tu tiens à la vie donne moi ta bourse !");
-        marco.seFaireExtorquer();
         yaku.extorquer(marco);
 	}
 }
